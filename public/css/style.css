@@ -1,0 +1,39 @@
+* {
+    font-family: 'Cinzel', serif;
+}
+
+.jumbotron {
+  background-image: url("/img/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: black;
+  margin-top: 10px;
+}
+
+#newburger {
+  border-radius: 7px;
+}
+
+#color-override {
+  color: #fff;
+}
+
+#lefthead {
+  background-color: #4dd14d;
+  color: white;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+#eatbutton,
+#trashbutton {
+  float: right;
+}
+
+#righthead {
+  background-color: #ff9808;
+  color: white;
+  text-align: center;
+  font-size: 1.1em;
+}
