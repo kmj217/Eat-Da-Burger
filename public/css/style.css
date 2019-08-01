@@ -24,6 +24,9 @@
   color: white;
   text-align: center;
   font-size: 1.1em;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
 }
 
 #eatbutton,
@@ -36,4 +39,7 @@
   color: white;
   text-align: center;
   font-size: 1.1em;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
 }
